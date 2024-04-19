@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://imgmedia.lbb.in/media/2023/12/657af4f56d1d4a7091894b46_1702556917405.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#bb{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border:15px;
+    background: linear-gradient(to top, beige, white);
+    border-radius: 15px;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    margin-bottom:500px;
+    background-image: url("https://www.shutterstock.com/image-photo/glitter-vintage-lights-background-dark-600nw-238992952.jpg");
+    backdrop-filter:blur(50%);
+    color: beige;
+
+}
+    
