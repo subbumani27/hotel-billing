@@ -2,6 +2,7 @@ body{
     background-image: url("https://imgmedia.lbb.in/media/2023/12/657af4f56d1d4a7091894b46_1702556917405.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    background-size: cover;
 
 }
 #bb{
